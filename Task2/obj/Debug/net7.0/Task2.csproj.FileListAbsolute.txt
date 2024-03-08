@@ -1,0 +1,14 @@
+D:\Учеба GB\IA\intermediate-attestation\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба GB\IA\intermediate-attestation\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+D:\Учеба GB\IA\intermediate-attestation\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+D:\Учеба GB\IA\intermediate-attestation\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+D:\Учеба GB\IA\intermediate-attestation\Task2\bin\Debug\net7.0\Task2.exe
+D:\Учеба GB\IA\intermediate-attestation\Task2\bin\Debug\net7.0\Task2.deps.json
+D:\Учеба GB\IA\intermediate-attestation\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+D:\Учеба GB\IA\intermediate-attestation\Task2\bin\Debug\net7.0\Task2.dll
+D:\Учеба GB\IA\intermediate-attestation\Task2\bin\Debug\net7.0\Task2.pdb
+D:\Учеба GB\IA\intermediate-attestation\Task2\obj\Debug\net7.0\Task2.dll
+D:\Учеба GB\IA\intermediate-attestation\Task2\obj\Debug\net7.0\refint\Task2.dll
+D:\Учеба GB\IA\intermediate-attestation\Task2\obj\Debug\net7.0\Task2.pdb
+D:\Учеба GB\IA\intermediate-attestation\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+D:\Учеба GB\IA\intermediate-attestation\Task2\obj\Debug\net7.0\ref\Task2.dll

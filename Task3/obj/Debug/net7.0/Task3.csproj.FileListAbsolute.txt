@@ -1,0 +1,14 @@
+D:\Учеба GB\IA\intermediate-attestation\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба GB\IA\intermediate-attestation\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+D:\Учеба GB\IA\intermediate-attestation\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+D:\Учеба GB\IA\intermediate-attestation\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+D:\Учеба GB\IA\intermediate-attestation\Task3\bin\Debug\net7.0\Task3.exe
+D:\Учеба GB\IA\intermediate-attestation\Task3\bin\Debug\net7.0\Task3.deps.json
+D:\Учеба GB\IA\intermediate-attestation\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+D:\Учеба GB\IA\intermediate-attestation\Task3\bin\Debug\net7.0\Task3.dll
+D:\Учеба GB\IA\intermediate-attestation\Task3\bin\Debug\net7.0\Task3.pdb
+D:\Учеба GB\IA\intermediate-attestation\Task3\obj\Debug\net7.0\Task3.dll
+D:\Учеба GB\IA\intermediate-attestation\Task3\obj\Debug\net7.0\refint\Task3.dll
+D:\Учеба GB\IA\intermediate-attestation\Task3\obj\Debug\net7.0\Task3.pdb
+D:\Учеба GB\IA\intermediate-attestation\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+D:\Учеба GB\IA\intermediate-attestation\Task3\obj\Debug\net7.0\ref\Task3.dll
