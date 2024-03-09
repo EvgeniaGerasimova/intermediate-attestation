@@ -2,7 +2,7 @@
 //начиная с конца. Использовать рекурсию, не использовать циклы.
 
 
-int[] CreateRandomArray(int min, int max, int size) //Рандомный массив с пользовательским вводом, потому что так сошлись звезды ¯\_(ツ)_/¯
+int[] CreateRandomArray(int min, int max, int size) 
 {
     int[] array = new int[size];
     for (int i = 0; i < size; i++)
